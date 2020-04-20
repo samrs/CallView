@@ -11,27 +11,27 @@
 9-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
 10
 11    <uses-feature android:name="android.hardware.camera.autofocus" />
-11-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:30:5-70
-11-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:30:19-67
+11-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:5:5-70
+11-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:5:19-67
 12    <uses-feature android:name="android.hardware.camera" />
-12-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:31:5-60
-12-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:31:19-57
+12-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:6:5-60
+12-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:6:19-57
 13
 14    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
-14-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:32:5-80
-14-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:32:22-77
+14-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:8:5-80
+14-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:8:22-77
 15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-15-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:33:5-81
-15-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:33:22-78
+15-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:9:5-81
+15-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:9:22-78
 16    <uses-permission android:name="android.permission.CAMERA" />
-16-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:35:5-65
-16-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:35:22-62
+16-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:10:5-65
+16-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:10:22-62
 17    <uses-permission android:name="android.permission.INTERNET" />
-17-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:36:5-67
-17-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:36:22-64
+17-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:11:5-67
+17-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:11:22-64
 18    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-18-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:38:5-71
-18-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:38:22-68
+18-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:12:5-71
+18-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:12:22-68
 19    <uses-permission android:name="android.permission.BLUETOOTH" />
 19-->[com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:13:5-68
 19-->[com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:13:22-65
@@ -50,57 +50,63 @@
 25-->[com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:23:9-32
 26
 27    <application
-27-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:5:5-29:19
+27-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:14:5-40:19
 28        android:allowBackup="true"
-28-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:6:9-35
+28-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:15:9-35
 29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 29-->[androidx.core:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\606ec3983e872e4fb791593f77f96617\core-1.1.0\AndroidManifest.xml:24:18-86
 30        android:debuggable="true"
 31        android:icon="@mipmap/ic_launcher"
-31-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:7:9-43
+31-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:16:9-43
 32        android:label="@string/app_name"
-32-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:8:9-41
+32-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:17:9-41
 33        android:supportsRtl="true"
-33-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:9:9-35
+33-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:18:9-35
 34        android:testOnly="true"
 35        android:theme="@style/AppTheme" >
-35-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:10:9-40
-36        <activity android:name="com.tokbox.multipartytest.CallActivity" />
-36-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:11:9-59
-36-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:11:19-47
-37        <activity android:name="com.tokbox.multipartytest.MainActivity" >
-37-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:12:9-18:20
-37-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:12:19-47
-38            <intent-filter>
-38-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:13:13-17:29
-39                <action android:name="android.intent.action.MAIN" />
-39-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:14:17-69
-39-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:14:25-66
-40
-41                <category android:name="android.intent.category.LAUNCHER" />
-41-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:16:17-77
-41-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:16:27-74
-42            </intent-filter>
-43        </activity>
-44        <activity
-44-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:19:9-28:20
-45            android:name="com.tokbox.multipartytest.RoomActivity"
-45-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:20:13-41
-46            android:configChanges="orientation|keyboardHidden|screenSize"
-46-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:21:13-74
-47            android:label="@string/title_activity_room"
-47-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:22:13-56
-48            android:parentActivityName="com.tokbox.multipartytest.MainActivity"
-48-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:23:13-55
-49            android:theme="@style/FullscreenTheme" >
-49-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:24:13-51
-50            <meta-data
-50-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:25:13-27:74
-51                android:name="android.support.PARENT_ACTIVITY"
-51-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:26:17-63
-52                android:value="com.tokbox.multipartytest.MainActivity" />
-52-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:27:17-71
-53        </activity>
-54    </application>
-55
-56</manifest>
+35-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:19:9-40
+36        <activity android:name="com.tokbox.multipartytest.JavaCallActivity" />
+36-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:20:9-63
+36-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:20:19-51
+37        <activity android:name="com.tokbox.multipartytest.JavaMainActivity" />
+37-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:21:9-54
+37-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:21:19-51
+38        <activity android:name="com.tokbox.multipartytest.CallActivity" />
+38-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:22:9-50
+38-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:22:19-47
+39        <activity android:name="com.tokbox.multipartytest.MainActivity" >
+39-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:23:9-29:20
+39-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:23:19-47
+40            <intent-filter>
+40-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:24:13-28:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:25:17-69
+41-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:25:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:27:17-77
+43-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:27:27-74
+44            </intent-filter>
+45        </activity>
+46        <activity
+46-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:30:9-39:20
+47            android:name="com.tokbox.multipartytest.RoomActivity"
+47-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:31:13-41
+48            android:configChanges="orientation|keyboardHidden|screenSize"
+48-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:32:13-74
+49            android:label="@string/title_activity_room"
+49-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:33:13-56
+50            android:parentActivityName="com.tokbox.multipartytest.MainActivity"
+50-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:34:13-55
+51            android:theme="@style/FullscreenTheme" >
+51-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:35:13-51
+52            <meta-data
+52-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:36:13-38:74
+53                android:name="android.support.PARENT_ACTIVITY"
+53-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:37:17-63
+54                android:value="com.tokbox.multipartytest.MainActivity" />
+54-->C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:38:17-71
+55        </activity>
+56    </application>
+57
+58</manifest>

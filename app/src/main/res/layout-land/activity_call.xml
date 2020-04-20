@@ -20,22 +20,22 @@
         android:src="@drawable/ic_chat"
         app:backgroundTint="@color/lightGrayColor"
         android:layout_marginTop="28dp"
-        android:layout_marginEnd="32dp"
+        android:layout_marginStart="34dp"
         app:fabSize="mini"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"/>
+        app:layout_constraintStart_toStartOf="parent"/>
 
     <androidx.cardview.widget.CardView
         android:id="@+id/messageView"
         android:layout_width="0dp"
         android:layout_height="200dp"
         android:layout_marginTop="8dp"
-        android:layout_marginEnd="32dp"
+        android:layout_marginStart="34dp"
         app:cardCornerRadius="10dp"
         app:cardBackgroundColor="@color/middleGrayColor"
-        app:layout_constraintStart_toEndOf="@id/rightView"
+        app:layout_constraintEnd_toEndOf="@id/rightView"
         app:layout_constraintTop_toBottomOf="@id/messageButton"
-        app:layout_constraintEnd_toEndOf="parent">
+        app:layout_constraintStart_toStartOf="parent">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -109,9 +109,9 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:orientation="vertical"
-        android:layout_marginStart="28dp"
+        android:layout_marginEnd="30dp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton

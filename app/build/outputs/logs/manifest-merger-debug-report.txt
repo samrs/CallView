@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-40:12
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-42:12
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\8d99a17d2c260962965baecf3bfed353\material-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [org.jetbrains.anko:anko:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\609c59d500db80d0d4286d7054ce7c3b\jetified-anko-0.10.8\AndroidManifest.xml:2:1-13:12
 MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9cbf19edee8f16395a779f9021ea5e67\jetified-anko-appcompat-v7-0.10.8\AndroidManifest.xml:2:1-13:12
@@ -66,25 +66,77 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\samue\.gradle\ca
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\3436687de72171f703121e38cc4e8bcd\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\f7c51580aa301cabc69ca295570f18fb\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\ab1840346f6c2b91af337c01db925247\print-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-42:12
 	package
 		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:3:5-40
 		INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-40:12
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-42:12
 		INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-40:12
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-42:12
 		INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:5:5-70
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:18:5-20:36
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:18:5-20:36
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:17:5-19:36
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:17:5-19:36
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:5:19-67
+uses-feature#android.hardware.camera
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:6:5-60
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:17:5-60
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:17:5-60
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:16:5-60
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:16:5-60
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:8:5-80
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:12:5-80
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:12:5-80
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:12:5-80
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:10:5-65
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:9:5-65
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:9:5-65
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:9:5-65
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:10:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:10:5-67
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:10:5-67
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:10:5-67
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:12:5-71
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:11:5-71
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:11:5-71
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:11:5-71
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:12:22-68
 application
-ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:5:5-29:19
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:14:5-40:19
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\8d99a17d2c260962965baecf3bfed353\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\8d99a17d2c260962965baecf3bfed353\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [org.jetbrains.anko:anko:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\609c59d500db80d0d4286d7054ce7c3b\jetified-anko-0.10.8\AndroidManifest.xml:11:5-20
@@ -118,103 +170,59 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sa
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\606ec3983e872e4fb791593f77f96617\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:18:9-35
 	android:label
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:17:9-41
 	android:icon
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:16:9-43
 	android:allowBackup
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:15:9-35
 	android:theme
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:10:9-40
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.tokbox.multipartytest.JavaCallActivity
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:20:9-63
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:20:19-51
+activity#com.tokbox.multipartytest.JavaMainActivity
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:21:19-51
 activity#com.tokbox.multipartytest.CallActivity
-ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:11:9-59
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:22:9-50
 	android:name
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:11:19-47
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:22:19-47
 activity#com.tokbox.multipartytest.MainActivity
-ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:23:9-29:20
 	android:name
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:23:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:27:27-74
 activity#com.tokbox.multipartytest.RoomActivity
-ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:19:9-28:20
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:30:9-39:20
 	android:parentActivityName
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:23:13-55
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:34:13-55
 	android:label
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:22:13-56
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:33:13-56
 	android:configChanges
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:21:13-74
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:32:13-74
 	android:theme
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:24:13-51
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:35:13-51
 	android:name
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:20:13-41
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:31:13-41
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:25:13-27:74
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:36:13-38:74
 	android:value
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:27:17-71
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:38:17-71
 	android:name
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:26:17-63
-uses-feature#android.hardware.camera.autofocus
-ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:30:5-70
-MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:18:5-20:36
-MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:18:5-20:36
-MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:17:5-19:36
-MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:17:5-19:36
-	android:name
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:30:19-67
-uses-feature#android.hardware.camera
-ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:31:5-60
-MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:17:5-60
-MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:17:5-60
-MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:16:5-60
-MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:16:5-60
-	android:name
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:31:19-57
-uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:32:5-80
-MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:12:5-80
-MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:12:5-80
-MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:12:5-80
-MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:12:5-80
-	android:name
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:32:22-77
-uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:33:5-81
-	android:name
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:33:22-78
-uses-permission#android.permission.CAMERA
-ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:35:5-65
-MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:9:5-65
-MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:9:5-65
-MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:9:5-65
-MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:9:5-65
-	android:name
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:35:22-62
-uses-permission#android.permission.INTERNET
-ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:36:5-67
-MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:10:5-67
-MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:10:5-67
-MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:10:5-67
-MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:10:5-67
-	android:name
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:36:22-64
-uses-permission#android.permission.RECORD_AUDIO
-ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:38:5-71
-MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:11:5-71
-MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:11:5-71
-MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:11:5-71
-MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:11:5-71
-	android:name
-		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:38:22-68
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:37:17-63
 uses-sdk
 INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml

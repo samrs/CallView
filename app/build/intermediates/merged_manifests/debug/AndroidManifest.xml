@@ -33,6 +33,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.tokbox.multipartytest.JavaCallActivity" />
+        <activity android:name="com.tokbox.multipartytest.JavaMainActivity" />
         <activity android:name="com.tokbox.multipartytest.CallActivity" />
         <activity android:name="com.tokbox.multipartytest.MainActivity" >
             <intent-filter>

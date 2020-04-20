@@ -4,6 +4,7 @@ import android.Manifest
 import android.content.Context
 import android.content.pm.PackageManager
 import android.os.Bundle
+import android.util.Log
 import android.view.View
 import android.view.ViewGroup
 import android.view.inputmethod.InputMethodManager
@@ -29,6 +30,7 @@ class CallActivity : AppCompatActivity() {
         var otSubscriber: Subscriber? = null
     }
 
+    val TAG: String = "Informacion"
     var messageViewOpen = true
     lateinit var messageView: CardView
     lateinit var imageBtn: ImageButton
@@ -74,9 +76,12 @@ class CallActivity : AppCompatActivity() {
 
         decorView = window.decorView
         decorView?.systemUiVisibility = hydeSystemBar
+
         decorView?.setOnSystemUiVisibilityChangeListener { visibility: Int ->
+            Log.d(TAG, "Bar")
             if (visibility and View.SYSTEM_UI_FLAG_FULLSCREEN == 0) {
-                decorView!!.systemUiVisibility = hydeSystemBar
+                decorView?.systemUiVisibility = hydeSystemBar
+                Log.d(TAG, "Bar if")
             }
         }
 
