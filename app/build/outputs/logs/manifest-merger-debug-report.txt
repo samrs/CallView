@@ -1,0 +1,379 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\8d99a17d2c260962965baecf3bfed353\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.anko:anko:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\609c59d500db80d0d4286d7054ce7c3b\jetified-anko-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9cbf19edee8f16395a779f9021ea5e67\jetified-anko-appcompat-v7-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\fce08b5d4a05cd26d622b642987f6333\jetified-anko-appcompat-v7-coroutines-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\53dff63a91f2dadd339764075e326dc2\jetified-anko-appcompat-v7-commons-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\cd1621b92e7ddd72c12a08b1db82b9ea\jetified-appcompatV7-base-0.10.8\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\8e8d54c0c40159fca4f0e5f755d1626b\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\92942547c781bc8021e516e3fff3bfe9\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\17e7ba9e4098f2778ccc22854e62d951\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\c6b5edb87250e4ead366ad97eda8e132\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b84ed682a985f869562d5c7bc8c16b29\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\6b8e53e5333f0e035a26ed89974d5729\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\afc256bb9ac5a0a96ee613245c351f1c\jetified-anko-sqlite-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b9a7f70304da1bf32a8ea40d6a643ade\jetified-anko-sdk27-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b43778fc9271cf97d6b7b0147ddd57cf\jetified-anko-sdk27-coroutines-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\859e9c64d107c2a38a8bac56c81c7790\jetified-anko-support-v4-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\82860dab3319f9b110514f4ace07acc8\jetified-anko-support-v4-commons-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d8d6e2f4148b48a5b9c1d19da23a41fe\jetified-anko-commons-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\00bd23b4ccbdfd5d5421ec37624c7f68\jetified-anko-coroutines-0.10.8\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\1f911168b6845685a222c1b4f1c2a057\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\a8282ba70234731facfb79ca6441ebd4\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\4eb41defb206700843a1a87a62f5fe65\jetified-core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\7c79ddf4e287bfe4021a2bef972f1206\jetified-sqlite-base-0.10.8\AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:platform-base:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5b9cf872a18742b042a33edd13e08766\jetified-platform-base-0.10.8\AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\236f2b5af70e78675e7962991c15987c\jetified-supportV4-base-0.10.8\AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\f0c3eb1280044b9de1b9dbec65e9dfa4\jetified-commons-base-0.10.8\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\01e2d9b09d940eca349514ca57803fca\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\cdc436d27e32397c183a9bff26dfd6e9\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\3d5f8dce1048ee2a7f145a7e8cb05800\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\6776524985c26da0ed18e6b81bdf60d2\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\a37f5ce081114440e20dd38db0b20ba7\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\90695a69b8d4940fac043888a0e89ec8\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\1b4b5c2d78272437de863e2d913c1858\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\3c528c1adf4f527cfdd854dd186b9f33\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\0b0ee03ff7d590a876dacb36d6d60dbb\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\8e1313e1023ab5981dd7cbc5bd66dc64\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\932fa44f1f133a2fb0e0463da1a3f5ac\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\42b960bedee88cfd8d2ebab0254a3167\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\557260bc8de620472d8f98bc8c958b4e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\710286b5166686e487599c4d5bdf880e\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\7a3f7ce62e471003a6cac2e66b0c984e\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\f86311b700709132ddb86c53c704e086\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\0036effdf9b1bc3b6144e6dabe0f5f87\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9e25715f4b85ba2b4118faaeb89b45e1\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\22ef2ec32c8963a5b4a01e1ac8d062a7\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\ac44f8c65809348f9d0cda6d0aa5b0cd\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\606ec3983e872e4fb791593f77f96617\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9930803d377bea263e0064a0795d70d2\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\ef3a02e7349a4dab9615b47037c6dc42\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b3c50641fe720527128c8a7d95d1ed9d\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b2bc65263e1016b02a8c714feb1f5802\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9a2cb55c75256709487537f0143bcc39\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\92211e2659730570f81cf5b0172ebfbd\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\747713853b9f90a7e29d0c9c8b91d198\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\707ddd2c8b36a063eb4289376fdaf58c\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b5b83ac493b3764971e40dda043b8150\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\cc244557d583010853ac09297542c927\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\3436687de72171f703121e38cc4e8bcd\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\f7c51580aa301cabc69ca295570f18fb\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\ab1840346f6c2b91af337c01db925247\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:5:5-29:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\8d99a17d2c260962965baecf3bfed353\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\8d99a17d2c260962965baecf3bfed353\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [org.jetbrains.anko:anko:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\609c59d500db80d0d4286d7054ce7c3b\jetified-anko-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\609c59d500db80d0d4286d7054ce7c3b\jetified-anko-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9cbf19edee8f16395a779f9021ea5e67\jetified-anko-appcompat-v7-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9cbf19edee8f16395a779f9021ea5e67\jetified-anko-appcompat-v7-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\fce08b5d4a05cd26d622b642987f6333\jetified-anko-appcompat-v7-coroutines-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\fce08b5d4a05cd26d622b642987f6333\jetified-anko-appcompat-v7-coroutines-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\53dff63a91f2dadd339764075e326dc2\jetified-anko-appcompat-v7-commons-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\53dff63a91f2dadd339764075e326dc2\jetified-anko-appcompat-v7-commons-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\92942547c781bc8021e516e3fff3bfe9\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\92942547c781bc8021e516e3fff3bfe9\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\afc256bb9ac5a0a96ee613245c351f1c\jetified-anko-sqlite-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\afc256bb9ac5a0a96ee613245c351f1c\jetified-anko-sqlite-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b9a7f70304da1bf32a8ea40d6a643ade\jetified-anko-sdk27-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b9a7f70304da1bf32a8ea40d6a643ade\jetified-anko-sdk27-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b43778fc9271cf97d6b7b0147ddd57cf\jetified-anko-sdk27-coroutines-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b43778fc9271cf97d6b7b0147ddd57cf\jetified-anko-sdk27-coroutines-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\859e9c64d107c2a38a8bac56c81c7790\jetified-anko-support-v4-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\859e9c64d107c2a38a8bac56c81c7790\jetified-anko-support-v4-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\82860dab3319f9b110514f4ace07acc8\jetified-anko-support-v4-commons-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\82860dab3319f9b110514f4ace07acc8\jetified-anko-support-v4-commons-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d8d6e2f4148b48a5b9c1d19da23a41fe\jetified-anko-commons-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d8d6e2f4148b48a5b9c1d19da23a41fe\jetified-anko-commons-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\00bd23b4ccbdfd5d5421ec37624c7f68\jetified-anko-coroutines-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\00bd23b4ccbdfd5d5421ec37624c7f68\jetified-anko-coroutines-0.10.8\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\606ec3983e872e4fb791593f77f96617\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\606ec3983e872e4fb791593f77f96617\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b2bc65263e1016b02a8c714feb1f5802\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b2bc65263e1016b02a8c714feb1f5802\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\606ec3983e872e4fb791593f77f96617\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.tokbox.multipartytest.CallActivity
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:11:9-59
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:11:19-47
+activity#com.tokbox.multipartytest.MainActivity
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.tokbox.multipartytest.RoomActivity
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:19:9-28:20
+	android:parentActivityName
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:23:13-55
+	android:label
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:22:13-56
+	android:configChanges
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:21:13-74
+	android:theme
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:24:13-51
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:20:13-41
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:25:13-27:74
+	android:value
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:27:17-71
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:26:17-63
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:30:5-70
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:18:5-20:36
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:18:5-20:36
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:17:5-19:36
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:17:5-19:36
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:30:19-67
+uses-feature#android.hardware.camera
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:31:5-60
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:17:5-60
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:17:5-60
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:16:5-60
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:16:5-60
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:31:19-57
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:32:5-80
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:12:5-80
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:12:5-80
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:12:5-80
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:32:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:33:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:35:5-65
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:9:5-65
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:9:5-65
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:9:5-65
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:35:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:36:5-67
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:10:5-67
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:10:5-67
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:10:5-67
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:36:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:38:5-71
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:11:5-71
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:11:5-71
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:11:5-71
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml:38:22-68
+uses-sdk
+INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\8d99a17d2c260962965baecf3bfed353\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\8d99a17d2c260962965baecf3bfed353\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.anko:anko:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\609c59d500db80d0d4286d7054ce7c3b\jetified-anko-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\609c59d500db80d0d4286d7054ce7c3b\jetified-anko-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9cbf19edee8f16395a779f9021ea5e67\jetified-anko-appcompat-v7-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9cbf19edee8f16395a779f9021ea5e67\jetified-anko-appcompat-v7-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\fce08b5d4a05cd26d622b642987f6333\jetified-anko-appcompat-v7-coroutines-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\fce08b5d4a05cd26d622b642987f6333\jetified-anko-appcompat-v7-coroutines-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\53dff63a91f2dadd339764075e326dc2\jetified-anko-appcompat-v7-commons-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\53dff63a91f2dadd339764075e326dc2\jetified-anko-appcompat-v7-commons-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\cd1621b92e7ddd72c12a08b1db82b9ea\jetified-appcompatV7-base-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\cd1621b92e7ddd72c12a08b1db82b9ea\jetified-appcompatV7-base-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\8e8d54c0c40159fca4f0e5f755d1626b\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\8e8d54c0c40159fca4f0e5f755d1626b\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\92942547c781bc8021e516e3fff3bfe9\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\92942547c781bc8021e516e3fff3bfe9\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\17e7ba9e4098f2778ccc22854e62d951\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\17e7ba9e4098f2778ccc22854e62d951\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\c6b5edb87250e4ead366ad97eda8e132\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\c6b5edb87250e4ead366ad97eda8e132\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b84ed682a985f869562d5c7bc8c16b29\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b84ed682a985f869562d5c7bc8c16b29\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\6b8e53e5333f0e035a26ed89974d5729\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\6b8e53e5333f0e035a26ed89974d5729\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\afc256bb9ac5a0a96ee613245c351f1c\jetified-anko-sqlite-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\afc256bb9ac5a0a96ee613245c351f1c\jetified-anko-sqlite-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b9a7f70304da1bf32a8ea40d6a643ade\jetified-anko-sdk27-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b9a7f70304da1bf32a8ea40d6a643ade\jetified-anko-sdk27-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b43778fc9271cf97d6b7b0147ddd57cf\jetified-anko-sdk27-coroutines-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b43778fc9271cf97d6b7b0147ddd57cf\jetified-anko-sdk27-coroutines-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\859e9c64d107c2a38a8bac56c81c7790\jetified-anko-support-v4-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\859e9c64d107c2a38a8bac56c81c7790\jetified-anko-support-v4-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\82860dab3319f9b110514f4ace07acc8\jetified-anko-support-v4-commons-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\82860dab3319f9b110514f4ace07acc8\jetified-anko-support-v4-commons-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d8d6e2f4148b48a5b9c1d19da23a41fe\jetified-anko-commons-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d8d6e2f4148b48a5b9c1d19da23a41fe\jetified-anko-commons-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\00bd23b4ccbdfd5d5421ec37624c7f68\jetified-anko-coroutines-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\00bd23b4ccbdfd5d5421ec37624c7f68\jetified-anko-coroutines-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\1f911168b6845685a222c1b4f1c2a057\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\1f911168b6845685a222c1b4f1c2a057\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\a8282ba70234731facfb79ca6441ebd4\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\a8282ba70234731facfb79ca6441ebd4\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\4eb41defb206700843a1a87a62f5fe65\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\4eb41defb206700843a1a87a62f5fe65\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\7c79ddf4e287bfe4021a2bef972f1206\jetified-sqlite-base-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\7c79ddf4e287bfe4021a2bef972f1206\jetified-sqlite-base-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:platform-base:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5b9cf872a18742b042a33edd13e08766\jetified-platform-base-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:platform-base:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5b9cf872a18742b042a33edd13e08766\jetified-platform-base-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\236f2b5af70e78675e7962991c15987c\jetified-supportV4-base-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\236f2b5af70e78675e7962991c15987c\jetified-supportV4-base-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\f0c3eb1280044b9de1b9dbec65e9dfa4\jetified-commons-base-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\f0c3eb1280044b9de1b9dbec65e9dfa4\jetified-commons-base-0.10.8\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\01e2d9b09d940eca349514ca57803fca\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\01e2d9b09d940eca349514ca57803fca\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\cdc436d27e32397c183a9bff26dfd6e9\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\cdc436d27e32397c183a9bff26dfd6e9\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\3d5f8dce1048ee2a7f145a7e8cb05800\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\3d5f8dce1048ee2a7f145a7e8cb05800\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\6776524985c26da0ed18e6b81bdf60d2\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\6776524985c26da0ed18e6b81bdf60d2\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\a37f5ce081114440e20dd38db0b20ba7\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\a37f5ce081114440e20dd38db0b20ba7\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\90695a69b8d4940fac043888a0e89ec8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\90695a69b8d4940fac043888a0e89ec8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\1b4b5c2d78272437de863e2d913c1858\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\1b4b5c2d78272437de863e2d913c1858\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\3c528c1adf4f527cfdd854dd186b9f33\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\3c528c1adf4f527cfdd854dd186b9f33\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\0b0ee03ff7d590a876dacb36d6d60dbb\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\0b0ee03ff7d590a876dacb36d6d60dbb\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\8e1313e1023ab5981dd7cbc5bd66dc64\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\8e1313e1023ab5981dd7cbc5bd66dc64\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\932fa44f1f133a2fb0e0463da1a3f5ac\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\932fa44f1f133a2fb0e0463da1a3f5ac\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\42b960bedee88cfd8d2ebab0254a3167\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\42b960bedee88cfd8d2ebab0254a3167\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\557260bc8de620472d8f98bc8c958b4e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\557260bc8de620472d8f98bc8c958b4e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\710286b5166686e487599c4d5bdf880e\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\710286b5166686e487599c4d5bdf880e\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\7a3f7ce62e471003a6cac2e66b0c984e\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\7a3f7ce62e471003a6cac2e66b0c984e\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\f86311b700709132ddb86c53c704e086\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\f86311b700709132ddb86c53c704e086\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\0036effdf9b1bc3b6144e6dabe0f5f87\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\0036effdf9b1bc3b6144e6dabe0f5f87\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9e25715f4b85ba2b4118faaeb89b45e1\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9e25715f4b85ba2b4118faaeb89b45e1\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\22ef2ec32c8963a5b4a01e1ac8d062a7\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\22ef2ec32c8963a5b4a01e1ac8d062a7\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\ac44f8c65809348f9d0cda6d0aa5b0cd\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\ac44f8c65809348f9d0cda6d0aa5b0cd\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\606ec3983e872e4fb791593f77f96617\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\606ec3983e872e4fb791593f77f96617\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9930803d377bea263e0064a0795d70d2\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9930803d377bea263e0064a0795d70d2\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\ef3a02e7349a4dab9615b47037c6dc42\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\ef3a02e7349a4dab9615b47037c6dc42\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b3c50641fe720527128c8a7d95d1ed9d\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b3c50641fe720527128c8a7d95d1ed9d\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b2bc65263e1016b02a8c714feb1f5802\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b2bc65263e1016b02a8c714feb1f5802\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9a2cb55c75256709487537f0143bcc39\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9a2cb55c75256709487537f0143bcc39\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\92211e2659730570f81cf5b0172ebfbd\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\92211e2659730570f81cf5b0172ebfbd\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\747713853b9f90a7e29d0c9c8b91d198\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\747713853b9f90a7e29d0c9c8b91d198\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\707ddd2c8b36a063eb4289376fdaf58c\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\707ddd2c8b36a063eb4289376fdaf58c\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b5b83ac493b3764971e40dda043b8150\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b5b83ac493b3764971e40dda043b8150\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\cc244557d583010853ac09297542c927\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\cc244557d583010853ac09297542c927\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\3436687de72171f703121e38cc4e8bcd\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\3436687de72171f703121e38cc4e8bcd\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\f7c51580aa301cabc69ca295570f18fb\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\f7c51580aa301cabc69ca295570f18fb\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\ab1840346f6c2b91af337c01db925247\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\ab1840346f6c2b91af337c01db925247\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samue\Desktop\Global\opentok-new-call\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:13:5-68
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:13:5-68
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:14:5-75
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:14:5-75
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:15:22-72
+uses-feature#0x00020000
+ADDED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:21:5-23:35
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:20:5-22:35
+MERGED from [com.opentok.android.v3:opentok-android-sdk-v3:3.1.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\5962ef6107f16180d147234f388fe148\jetified-opentok-android-sdk-v3-3.1.6\AndroidManifest.xml:20:5-22:35
+	android:glEsVersion
+		ADDED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:22:9-41
+	android:required
+		ADDED from [com.opentok.android:opentok-android-sdk:2.16.6] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d20a155dd027624abe48d8a885c3bd15\jetified-opentok-android-sdk-2.16.6\AndroidManifest.xml:23:9-32
